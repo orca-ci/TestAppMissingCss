@@ -1,0 +1,7 @@
+{
+    "name": "Test App Missing CSS",
+    "className": "TestAppMissingCss",
+    "css": [
+        "app.css"
+    ]
+}
